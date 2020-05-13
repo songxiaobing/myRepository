@@ -17,6 +17,7 @@ const StudentMain = Vue.component("student-main", {
         this.addSocketListeners();
         this.showJoinClassroomDialog();
         //zzzzs
+        //test
     },
 
     methods: {
